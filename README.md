@@ -1,5 +1,5 @@
 # Backpack
-Backpack is a basic interpolation module for Framer. To use it, clone this repository into the 'modules' folder of your Framer project. The library and the engine are purposely separate so that you can add your own easing functions (elastic, spring, etc.)
+Backpack is a basic interpolation module for Framer. To use it, clone this repository into the 'modules' folder of your Framer project. The library and the engine are purposely separate so that you can add your own easing functions (elastic, spring, etc.). See it in [action](https://framer.cloud/UnFOy).
 
 ## Basic usage
 
