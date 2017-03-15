@@ -4,10 +4,10 @@ Backpack is a basic interpolation module for Framer. To use it, clone this repos
 ## Basic usage
 
 ```
-#Import the engine
+# Import the engine
 Backpack = require 'backpack'
 
-#Import the library
+# Import the library
 Easings = require 'lib/easings'
 
 Backpack Easings.linear, .2, [0, 1], [0, 4], false
