@@ -10,4 +10,4 @@ module.exports = (m, t, i, e, lim = false) ->
 		# Clamps regardless of position, only if value is surpassed
 		else if t > e[1] then e[1] else if t < e[0] then e[0] else t
 	catch err
-		throw "#{err.name}: Only use easing curves defined in your library (~/lib)" if err.name is 'TypeError'
+		throw "#{err.name}: Only use easing curves defined in your library (~/lib)"
