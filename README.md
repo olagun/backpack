@@ -18,4 +18,4 @@ The first argument ```Easings.linear``` is the method by which the values are in
 More easing functions are coming soon, but feel free to add your own.
 
 ## License
-Solving for the map range equation took a bit of time. If that doesn't prevent you from stealing my work, here's a [license](https://github.com/samolaogun/backpack/blob/master/LICENSE) for it.
+Use as you please; license [here](https://github.com/samolaogun/backpack/blob/master/LICENSE).
