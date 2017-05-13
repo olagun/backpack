@@ -3,7 +3,7 @@ Backpack is a basic interpolation module for Framer. To use it, clone this repos
 
 ## Basic usage
 
-```
+```coffeescript
 # Import the engine
 Backpack = require 'backpack'
 
